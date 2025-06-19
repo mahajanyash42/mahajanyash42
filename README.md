@@ -41,14 +41,40 @@ Built linear regression, decision tree, and random forest models to predict medi
 
 ## 🛠️ Tools & Technologies
 
-- Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
-- SQL (SSMS)  
-- Jupyter Notebook  
-- Git & GitHub  
-- APIs and ETL Pipelines  
-- Visualizations & Dashboards (Tableau)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" title="NumPy" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" title="Pandas" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" title="Jupyter Notebook" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" title="SQL / MySQL / SSMS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" title="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" title="Tableau" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" title="VS Code" width="40" height="40"/>
+</p>
+
+
+
+- **Languages & Libraries:** Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)  
+- **Database & Querying:** SQL (SSMS)  
+- **IDE & Tools:** Jupyter Notebook, VS Code, Git & GitHub  
+- **Others:** APIs, ETL Pipelines, Tableau Dashboards
+
 
 ---
+
+## 🧩 Data Structures & Algorithms
+
+-  Currently solving problems on **LeetCode** and **GeeksforGeeks**
+-  Following a 14-week roadmap covering 28+ core DSA patterns:
+  - Two Pointers, Sliding Window, Fast & Slow Pointers
+  - Linked Lists, Stacks, Queues, Trees, Graphs, Heaps
+  - Binary Search, Dynamic Programming, Backtracking, and more
+-  Focus: Building strong problem-solving skills for interviews and real-world logic  
+  [![Problems Solved](https://img.shields.io/badge/LeetCode-50%2B_Problems_Solved-orange?style=flat-square&logo=leetcode)](https://leetcode.com/YOUR_USERNAME)
+-  Languages used: **Python**
+
 
 ## 🔗 Let's Connect!
 
