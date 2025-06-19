@@ -1,4 +1,4 @@
-# Hi, I am Yash Mahajan! 👋
+# Hi, I am Yash Mahajan! 
 
 <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="900" alt="Hero GIF"/>
 
