@@ -1,6 +1,6 @@
 # Hi, I am Yash Mahajan! 
 
-<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="900" alt="Hero GIF"/>
+<img src="assetsyash.png" width="900" alt="Yash Mahajan portrait"/>
 
 Welcome to my Data Science Portfolio! 🚀  
 I'm Yash Mahajan, a passionate data enthusiast focused on solving real-world problems using data. Below are the projects I’ve built using Python, SQL, data visualization, machine learning, and ETL tools.
