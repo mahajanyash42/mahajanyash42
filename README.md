@@ -2,7 +2,7 @@
 
 <img src="assetsyash.png" width="400" alt="Yash Mahajan portrait"/>
 
-Welcome to my Data Science Portfolio! 🚀  
+Welcome to my Portfolio! 🚀  
 I'm Yash Mahajan, a passionate data enthusiast focused on solving real-world problems using data. Below are the projects I’ve built using Python, SQL, data visualization, machine learning, and ETL tools.
 
 ---
