@@ -9,7 +9,7 @@ I'm Yash Mahajan, a passionate data enthusiast focused on solving real-world pro
 
 ## 📂 Project List
 
-### 1. [UMPD YARA Database – Police Data Management System](https://github.com/mahajanyash42/YARA-Database)  
+### 1. [UMPD YARA Database – Police Data Management System](https://github.com/mahajanyash42/YARA-Police-Database)  
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFvdndpYW02Z3Uwc2tqM2R3eDRmZm1haXo2YmJ2Y3lwMW5wa2gwYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/h8NDHj8MBQL3vYkMWa/giphy.gif" width="250" alt="Database GIF"/><br>  
 A full-stack Police Data Management System built for the **University of Maryland Police Department (UMPD)** as a DBMS project.  
 Developed using **Streamlit** and **SQL Server**, it enables officers to record, manage, and analyze incidents, arrests, and evidence in real-time.  
